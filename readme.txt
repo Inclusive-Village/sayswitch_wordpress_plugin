@@ -1,5 +1,5 @@
 === SaySwitch Payment Gateway for WooCommerce ===
-Contributors: Your Name
+Contributors: Inclusive Village
 Tags: woocommerce, payment gateway, sayswitch, nigeria, payments
 Requires at least: 5.0
 Tested up to: 6.4
